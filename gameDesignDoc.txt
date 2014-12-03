@@ -1,0 +1,50 @@
+My Milestones
+DONE! mon 7/7 made 3 enemies appear on screen
+——- tues 7/8 lost day, shouldn’t have gone to talk
+——- wed  7/9 shoot playerBullets at turn based intervals, collision with enemies
+——- thrus 7/10 enemy bullets, player collision, splash game over?
+——- fri 7/11  clean up code, finish any loose ends
+
+NEXT WEEK
+add shapes / colors / bullet patterns / shape movement patterns
+ 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+MGWU MVP Milestones
+
+Week 1 (7/7 - 7/11/2014)
+
+Implement platformer physics
+Add gravity to all entities/objects
+Entity movement
+Jump
+Climbing
+Resolve player/enemy death
+Control scheme for player
+Week 2 (7/14 - 7/18/2014) - finishing a playable build
+
+Implement keys and gates
+Rewind implementation -- get started on this ASAP!!
+Start implementing objects immune to rewind
+Week 3 (7/21 - 7/25/2014)
+
+Finish and polish rewind implementation
+Level design -- playtest often!!
+Save user data -- how many bacon collected in each level
+Week 4 (7/28 - 8/1/2014) - finishing core gameplay
+
+Refine levels -- playtest even more often!!
+Refine control scheme
+Week 5 (8/4 - 8/8/2014)
+
+Level select scene
+Determine what other polish is needed
+Week 6 (8/11 - 8/15/2014) - finishing the polish
+
+Work on rewinding particle effects
+Integrate analytics
+Screenshots
+Write game description for App store
+Play around with Apportable to see if Android release is feasible
